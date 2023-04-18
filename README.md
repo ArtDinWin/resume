@@ -8,15 +8,15 @@
 ### 💬 Как связаться со мной: 
 [![Telegram Badge](https://img.shields.io/badge/-@arti7k-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arti7k) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:artiwwwmail@gmail.com) [artiwwwmail@gmail.com](mailto:artiwwwmail@gmail.com) 📞 [+7-987-706-55-85](tel:89877065585)
 
-### :man_technologist: Обо мне:
+### 👨‍💻 Обо мне:
 <div>
-<img align="left" alt="Coding" width="20" src="https://www.svgrepo.com/show/509148/location-pin.svg" style="padding-left: 40px; margin-top: -60px;"> 
+<img align="left" alt="Coding" width="20" src="https://www.svgrepo.com/show/509148/location-pin.svg"> 
 </div>
 Йошкар-Ола, Марий Эл
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I5ODkzNTRlN2VkODY4NWM3MDlmMGM5YTA1ZjY0OGIwYWVhNmNkOCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" style="padding-left: 40px; margin-top: -60px;">
 
-Имею **высшее образование** 🎓 в сфере **«Информатики и вычислительной техники»**, но не имею большого опыта работы в программировании. 
+Имею 🎓 **высшее образование** в сфере **«Информатики и вычислительной техники»**, но не имею большого опыта работы в программировании. 
 Работал не по специальности в строительстве, печатном издании **графическим дизайнером**, затем в сфере снабжения. Решил сменить направление работы, повысить свою квалификацию и развивать профессиональные навыки в области **web-технологий**. 
 
 Мой путь в it начался более 5 лет назад с изучения **HTML и CSS** в качестве хобби, во внерабочее время. Дорабатывал и изменял сайты, участвовал в интенсивах по **web-разработке**. Пробовал себя в нескольких направлениях, но больше всего меня зацепила **web-разработка!** С ноября 2022 года я изучаю программирование в этом направлении углубленно, по государственной программе переобучения и дополнительного профессионального образования по специализации **«Frontend-разработчик»**. В настоящий момент мое обучение на курсе подходит к концу и я нахожусь в поисках работы!
@@ -27,7 +27,7 @@
 ✔ **ВЫСШЕЕ:** 
 > - МарГТУ, Факультет **«Информатики и Вычислительной Техники»** 🖳
 > - Специальность **«Вычислительные машины, комплексы и сети»** 🖧
-<img alt="JavaScript калькулятор Glo-Academy" title="JavaScript калькулятор Glo-Academy" width="75" src="https://github.com/ArtDinWin/resume/blob/main/img/certificates/diplom.jpg" >
+<img alt="Диплом о высшем образовании" title="Диплом о высшем образовании" width="75" src="https://raw.githubusercontent.com/ArtDinWin/resume/main/img/certificates/diplom.jpg" >
 
 ⌛ Государственная программа **«Цифровые профессии»** 💻︎
 > - Онлайн-Курс **«Frontend-разработчик» 2022-23г** 
@@ -36,13 +36,13 @@
 ✔ Онлайн-Курс **«JavaScript разработчик»** 🇯🇸
 > **«Онлайн школа WebCademy»**
 
-<img alt="JavaScript разработчик WebCademy" title="JavaScript разработчик WebCademy" width="150" src="https://github.com/ArtDinWin/resume/blob/main/img/certificates/WebCademy-JS.png" >
+<img alt="JavaScript разработчик WebCademy" title="JavaScript разработчик WebCademy" width="150" src="https://raw.githubusercontent.com/ArtDinWin/resume/main/img/certificates/WebCademy-JS.png" >
 
 ✔ Онлайн-Курс **«JavaScript для новичков»** ✔ и другие интенсивы по **JavaScript, HTML и CSS** 💻︎
 > **«Онлайн школа Glo-Academy»**
 
-<img align="left" alt="JavaScript start Glo-Academy" title="JavaScript start Glo-Academy" width="150" src="https://github.com/ArtDinWin/resume/blob/main/img/certificates/JS-start.png" >
-<img alt="JavaScript калькулятор Glo-Academy" title="JavaScript калькулятор Glo-Academy" width="150" src="https://github.com/ArtDinWin/resume/blob/main/img/certificates/calculator.png" >
+<img align="left" alt="JavaScript start Glo-Academy" title="JavaScript start Glo-Academy" width="150" src="https://raw.githubusercontent.com/ArtDinWin/resume/main/img/certificates/JS-start.png" >
+<img alt="JavaScript калькулятор Glo-Academy" title="JavaScript калькулятор Glo-Academy" width="150" src="https://raw.githubusercontent.com/ArtDinWin/resume/main/img/certificates/calculator.png" >
 
 
 ✔ Оффлайн-Курс **«Инструменты дизайнера»** 🎨
@@ -77,10 +77,10 @@
       <p>• Дополнительно: написан рабочий слайдер на чистом JS</p>
       <p><b>Технологии:</b></p>
       <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
       </div>
     </td>
   </tr>
@@ -100,9 +100,9 @@
       <hr>  
       <p><b>Технологии:</b></p>
       <div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
     <img src="https://www.svgrepo.com/show/374110/svg.svg" title="SVG" alt="SVG" width="40" height="40"/>&nbsp
       </div>
     </td>
@@ -121,9 +121,9 @@
       <hr>  
       <p><b>Технологии:</b></p>
       <div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;   
    </div>
     </td>
@@ -148,7 +148,7 @@
       <hr>  
       <p><b>Технологии:</b></p>
       <div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp   
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp   
    </div>
     </td>
   </tr>
@@ -169,7 +169,7 @@
       <hr>  
       <p><b>Технологии:</b></p>
       <div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp   
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp   
    </div>
     </td>
   </tr>
@@ -192,7 +192,7 @@
       <hr>  
       <p><b>Технологии:</b></p>
       <div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp   
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp   
    </div>
     </td>
   </tr>
@@ -203,15 +203,15 @@
 ### 💻 Технологии:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" title="webpack" alt="webpack" height="40"/>&nbsp;
 </div>
 
 ---
@@ -222,8 +222,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/768px-PhpStorm_Icon.svg.png" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Illustrator_CC_icon.png" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" title="figma" alt="figma" height="40"/>&nbsp;
   <img src="https://infinitegraphixads.com/wp-content/uploads/elementor/thumbs/unnamed-1-p6v8zr2244qpos65aeudf0h9fdkn1u43rkyftdw94w.jpg" title="CorelDRAW" alt="CorelDRAW" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Adobe_Indesign_CC_logo.png" title="InDesign" alt="InDesign" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/640px-Wordpress-Logo.svg.png" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
