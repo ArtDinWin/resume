@@ -78,10 +78,10 @@
       <p>• Дополнительно: написан рабочий слайдер на чистом JS</p>
       <p><b>Технологии:</b></p>
       <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="git" alt="git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>
       </div>
     </td>
   </tr>
@@ -101,10 +101,10 @@
       <hr>  
       <p><b>Технологии:</b></p>
       <div>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-    <img src="https://www.svgrepo.com/show/374110/svg.svg" title="SVG" alt="SVG" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/374110/svg.svg" title="SVG" alt="SVG" width="40" height="40"/>
       </div>
     </td>
   </tr>
@@ -122,10 +122,10 @@
       <hr>  
       <p><b>Технологии:</b></p>
       <div>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;   
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>  
    </div>
     </td>
   </tr>
@@ -149,7 +149,7 @@
       <hr>  
       <p><b>Технологии:</b></p>
       <div>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp   
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>   
    </div>
     </td>
   </tr>
@@ -170,7 +170,7 @@
       <hr>  
       <p><b>Технологии:</b></p>
       <div>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp   
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>   
    </div>
     </td>
   </tr>
@@ -193,7 +193,7 @@
       <hr>  
       <p><b>Технологии:</b></p>
       <div>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp   
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>   
    </div>
     </td>
   </tr>
@@ -204,15 +204,15 @@
 ### 💻 Технологии:
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" title="webpack" alt="webpack" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="git" alt="git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="reactjs" alt="reactjs" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" title="webpack" alt="webpack" height="40"/>
 </div>
 
 ---
@@ -220,14 +220,14 @@
 ### 🛠 Инструменты:
 
 <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/768px-PhpStorm_Icon.svg.png" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Illustrator_CC_icon.png" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" title="figma" alt="figma" height="40"/>&nbsp;
-  <img src="https://infinitegraphixads.com/wp-content/uploads/elementor/thumbs/unnamed-1-p6v8zr2244qpos65aeudf0h9fdkn1u43rkyftdw94w.jpg" title="CorelDRAW" alt="CorelDRAW" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Adobe_Indesign_CC_logo.png" title="InDesign" alt="InDesign" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/640px-Wordpress-Logo.svg.png" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/768px-PhpStorm_Icon.svg.png" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" title="photoshop" alt="photoshop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Illustrator_CC_icon.png" title="Illustrator" alt="Illustrator" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" title="figma" alt="figma" height="40"/>
+  <img src="https://infinitegraphixads.com/wp-content/uploads/elementor/thumbs/unnamed-1-p6v8zr2244qpos65aeudf0h9fdkn1u43rkyftdw94w.jpg" title="CorelDRAW" alt="CorelDRAW" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Adobe_Indesign_CC_logo.png" title="InDesign" alt="InDesign" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/640px-Wordpress-Logo.svg.png" title="Wordpress" alt="Wordpress" width="40" height="40"/>
 </div>
 
 
