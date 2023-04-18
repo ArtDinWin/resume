@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://github.com/ArtDinWin/resume/blob/main/img/photo.png" width="175px">
+<img src="https://raw.githubusercontent.com/ArtDinWin/resume/main/img/photo.png" width="175px">
 
 ### 💬 Как связаться со мной: 
 [![Telegram Badge](https://img.shields.io/badge/-@arti7k-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arti7k) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:artiwwwmail@gmail.com) [artiwwwmail@gmail.com](mailto:artiwwwmail@gmail.com) 📞 [+7-987-706-55-85](tel:89877065585)
