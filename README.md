@@ -176,7 +176,7 @@
   </tr>
   <tr>   
     <td width="500px" vertical-align="top" style="vertical-align: top;">
-      <img width="500px" align="top" alt="Учебный проект интернет магазин недвижимости Метр" title="Учебный проект интернет магазин недвижимости Метр" src="https://github.com/ArtDinWin/project_metr_distr/blob/main/preview.png" />      
+      <img width="500px" align="top" alt="Учебный проект интернет магазин недвижимости Метр" title="Учебный проект интернет магазин недвижимости Метр" src="https://raw.githubusercontent.com/ArtDinWin/project_metr_distr/main/preview.png" />      
     </td>
     <td>
       <b>🔗 Ссылка:</b> <a href="https://artdinwin.github.io/project_metr_distr/" title="Учебный проект интернет магазин недвижимости Метр">https://artdinwin.github.io/project_metr_distr/</a>
