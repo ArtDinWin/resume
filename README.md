@@ -33,7 +33,7 @@
 > - Онлайн-Курс **«Frontend-разработчик» 2022-23г** 
 > - **«Онлайн школа SkillFactory»** 
 
-✔ Онлайн-Курс **«JavaScript разработчик»** 🇯🇸
+✔ Онлайн-Курс **«JavaScript разработчик + React основы»** 🇯🇸
 > **«Онлайн школа WebCademy»**
 
 <img alt="JavaScript разработчик WebCademy" title="JavaScript разработчик WebCademy" width="150" src="https://raw.githubusercontent.com/ArtDinWin/resume/main/img/certificates/WebCademy-JS.png" >
