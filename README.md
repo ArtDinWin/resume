@@ -73,6 +73,74 @@
 ### 🔗 Проекты:
 
 <table>
+      <tr>   
+    <td width="500px" vertical-align="top" style="vertical-align: top;">
+      <img width="500px" align="top" alt="Финальный проект: Поиск пропавших велосипедов" title="Финальный проект: Поиск пропавших велосипедов" src="https://raw.githubusercontent.com/ArtDinWin/bike-final-app/1587d09707c6b9df42f6d21361ab377f90040c90/preview.jpg" />      
+    </td>
+    <td>
+      <b>🔗 Ссылка (deploy):</b><br><a href="https://artdinwin.github.io/bike-final-app/" title="Финальный проект: Поиск пропавших велосипедов">https://artdinwin.github.io/bike-final-app/</a><br>
+       <b>🔗 Ссылка (подробнее):</b><br><a href="https://github.com/ArtDinWin/bike-final-app" title="Финальный проект: Поиск пропавших велосипедов">https://github.com/ArtDinWin/bike-final-app</a>
+      <hr>      
+      <b>Финальный проект: Поиск пропавших велосипедов</b>
+      <hr>
+      Известная компания, занимающаяся прокатом велосипедов в крупных городах России, испытывает проблемы с частой кражей их имущества (велосипедов). Как возможное решение проблемы, компания хочет вести учёт этих случаев и отслеживать прогресс.<br>Их собственные разработчики предоставили серверную часть приложения, мне же в рамках финального проекта пришлось реализовать клиентскую часть.
+       <hr>
+      <b>Что реализовано?</b><br> 
+1. Верстка макета (свой, свободный стиль)<br>
+2. Взаимодействие фронтенда SPA на React.js v18 и Redux c готовым API бэкенда<br>      
+3. Для авторизованных запросов использовался Bearer Token<br>
+4. Запросы к бекенд-серверу через запросы библиотеки axios<br>
+5. Авторизация, регистрация и выход<br>
+6. Отображение, добавление, удаление и редактирование данных<br>
+7. Дополнительно реализован быстрый поиск по условию<br>  
+8. Использование функциональных компонентов, встроенных хуков, внутреннего state и Redux toolkit Store
+      <hr>  
+      <p><b>Технологии:</b></p>
+      <div> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>   
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="reactjs" alt="reactjs" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Redux.png/230px-Redux.png" title="redux" alt="redux" width="51" height="40"/>
+   </div>
+    </td>
+  </tr>
+      <tr>   
+    <td width="500px" vertical-align="top" style="vertical-align: top;">
+      <img width="500px" align="top" alt="Учебный проект: Канбан-доска" title="Учебный проект: Канбан-доска" src="https://github.com/ArtDinWin/kanban_board_react_pj-05/raw/master/preview.png" />      
+    </td>
+    <td>
+      <b>🔗 Ссылка (deploy):</b> <a href="https://artdinwin.github.io/kanban_board_react_pj-05/" title="Учебный проект: Канбан-доска">https://artdinwin.github.io/kanban_board_react_pj-05/</a><br>
+      <b>🔗 Ссылка (подробнее):</b> <a href="https://github.com/ArtDinWin/kanban_board_react_pj-05" title="Учебный проект: Канбан-доска">https://github.com/ArtDinWin/kanban_board_react_pj-05</a>
+      <hr>      
+      <b>Учебный проект: Канбан-доска</b>
+      <hr>
+      Канбан-доска – популярный инструмент для визуализации и разбивки какой-либо задачи на этапы.<br>
+      Самостоятельная работа/проект, который направлен на отработку навыков разработки на фреймворке React.js<br> 
+      <hr> 
+      <b>Что реализовано?</b>
+      <hr> 
+1. Верстка 4 блоков с задачами<br>
+2. Добавление новой задачи<br>
+3. Активные/неактивные кнопки<br>
+4. Перемещение задач между списками<br>
+5. Верстка детальной страницы задачи<br>
+6. Сохранение внесенных изменений по задаче<br>
+7. Удаление задачи<br>
+8. Вывод количества задач в футер<br>
+9. Выпадающее меню пользователя<br>
+10. Использование функциональных компонентов, встроенных хуков, внутреннего state<br>
+11. Хранение данных в localstorage<br>      
+      <hr>  
+      <p><b>Технологии:</b></p>
+      <div>  
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>   
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="reactjs" alt="reactjs" width="40" height="40"/>
+   </div>
+    </td>
+  </tr>
   <tr>   
     <td width="500px" vertical-align="top" style="vertical-align: top;">
       <img width="500px" align="top" alt="Проект Верстка лендинга по макету" title="Проект Верстка лендинга по макету" src="https://user-images.githubusercontent.com/45292877/232567867-cf634431-d998-43dc-b4de-1ed973cbf435.png" />      
@@ -91,6 +159,29 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>
       </div>
+    </td>
+  </tr>
+    <tr>   
+    <td width="500px" vertical-align="top" style="vertical-align: top;">
+      <img width="500px" align="top" alt="Учебный проект интернет магазин недвижимости Метр" title="Учебный проект интернет магазин недвижимости Метр" src="https://raw.githubusercontent.com/ArtDinWin/project_metr_distr/main/preview.png" />      
+    </td>
+    <td>
+      <b>🔗 Ссылка:</b> <a href="https://artdinwin.github.io/project_metr_distr/" title="Учебный проект интернет магазин недвижимости Метр">https://artdinwin.github.io/project_metr_distr/</a>
+      <hr>      
+      <b>Учебный проект интернет магазин недвижимости «Метр»</b>
+      <hr>
+      <b>Что реализовано?</b><br> 
+1. Взаимодействие SPA фронтенда c API бэкенда через fetch<br>
+2. Вывод всего списка объектов недвижимости<br>
+3. Вывод информации по отдельной квартире<br>
+4. Добавление и вывод избранных объектов недвижимости<br>
+5. Доступ к информации по последним 20 заявкам на сервере<br>
+6. Реализована работа с использованием архитектурной модульной структуры и функционала MVC (Model—View—Controller)<br>    
+      <hr>  
+      <p><b>Технологии:</b></p>
+      <div>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>   
+   </div>
     </td>
   </tr>
   <tr>   
@@ -179,97 +270,6 @@
       <p><b>Технологии:</b></p>
       <div>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>   
-   </div>
-    </td>
-  </tr>
-  <tr>   
-    <td width="500px" vertical-align="top" style="vertical-align: top;">
-      <img width="500px" align="top" alt="Учебный проект интернет магазин недвижимости Метр" title="Учебный проект интернет магазин недвижимости Метр" src="https://raw.githubusercontent.com/ArtDinWin/project_metr_distr/main/preview.png" />      
-    </td>
-    <td>
-      <b>🔗 Ссылка:</b> <a href="https://artdinwin.github.io/project_metr_distr/" title="Учебный проект интернет магазин недвижимости Метр">https://artdinwin.github.io/project_metr_distr/</a>
-      <hr>      
-      <b>Учебный проект интернет магазин недвижимости «Метр»</b>
-      <hr>
-      <b>Что реализовано?</b><br> 
-1. Взаимодействие SPA фронтенда c API бэкенда через fetch<br>
-2. Вывод всего списка объектов недвижимости<br>
-3. Вывод информации по отдельной квартире<br>
-4. Добавление и вывод избранных объектов недвижимости<br>
-5. Доступ к информации по последним 20 заявкам на сервере<br>
-6. Реализована работа с использованием архитектурной модульной структуры и функционала MVC (Model—View—Controller)<br>    
-      <hr>  
-      <p><b>Технологии:</b></p>
-      <div>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>   
-   </div>
-    </td>
-  </tr>
-    <tr>   
-    <td width="500px" vertical-align="top" style="vertical-align: top;">
-      <img width="500px" align="top" alt="Учебный проект: Канбан-доска" title="Учебный проект: Канбан-доска" src="https://github.com/ArtDinWin/kanban_board_react_pj-05/raw/master/preview.png" />      
-    </td>
-    <td>
-      <b>🔗 Ссылка (deploy):</b> <a href="https://artdinwin.github.io/kanban_board_react_pj-05/" title="Учебный проект: Канбан-доска">https://artdinwin.github.io/kanban_board_react_pj-05/</a><br>
-      <b>🔗 Ссылка (подробнее):</b> <a href="https://github.com/ArtDinWin/kanban_board_react_pj-05" title="Учебный проект: Канбан-доска">https://github.com/ArtDinWin/kanban_board_react_pj-05</a>
-      <hr>      
-      <b>Учебный проект: Канбан-доска</b>
-      <hr>
-      Канбан-доска – популярный инструмент для визуализации и разбивки какой-либо задачи на этапы.<br>
-      Самостоятельная работа/проект, который направлен на отработку навыков разработки на фреймворке React.js<br> 
-      <hr> 
-      <b>Что реализовано?</b>
-      <hr> 
-1. Верстка 4 блоков с задачами<br>
-2. Добавление новой задачи<br>
-3. Активные/неактивные кнопки<br>
-4. Перемещение задач между списками<br>
-5. Верстка детальной страницы задачи<br>
-6. Сохранение внесенных изменений по задаче<br>
-7. Удаление задачи<br>
-8. Вывод количества задач в футер<br>
-9. Выпадающее меню пользователя<br>
-10. Использование функциональных компонентов, встроенных хуков, внутреннего state<br>
-11. Хранение данных в localstorage<br>      
-      <hr>  
-      <p><b>Технологии:</b></p>
-      <div>  
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>   
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="reactjs" alt="reactjs" width="40" height="40"/>
-   </div>
-    </td>
-  </tr>
-    <tr>   
-    <td width="500px" vertical-align="top" style="vertical-align: top;">
-      <img width="500px" align="top" alt="Финальный проект: Поиск пропавших велосипедов" title="Финальный проект: Поиск пропавших велосипедов" src="https://raw.githubusercontent.com/ArtDinWin/bike-final-app/1587d09707c6b9df42f6d21361ab377f90040c90/preview.jpg" />      
-    </td>
-    <td>
-      <b>🔗 Ссылка (deploy):</b> <a href="https://artdinwin.github.io/bike-final-app/" title="Финальный проект: Поиск пропавших велосипедов">https://artdinwin.github.io/bike-final-app/</a><br>
-       <b>🔗 Ссылка (подробнее):</b> <a href="https://github.com/ArtDinWin/bike-final-app" title="Финальный проект: Поиск пропавших велосипедов">https://github.com/ArtDinWin/bike-final-app</a>
-      <hr>      
-      <b>Финальный проект: Поиск пропавших велосипедов</b>
-      <hr>
-      Известная компания, занимающаяся прокатом велосипедов в крупных городах России, испытывает проблемы с частой кражей их имущества (велосипедов). Как возможное решение проблемы, компания хочет вести учёт этих случаев и отслеживать прогресс.<br>Их собственные разработчики предоставили серверную часть приложения, мне же в рамках финального проекта пришлось реализовать клиентскую часть.
-       <hr>
-      <b>Что реализовано?</b><br> 
-1. Верстка макета (свой, свободный стиль)<br>
-2. Взаимодействие фронтенда SPA на React.js v18 и Redux c готовым API бэкенда<br>      
-3. Для авторизованных запросов использовался Bearer Token<br>
-4. Запросы к бекенд-серверу через запросы библиотеки axios<br>
-5. Авторизация, регистрация и выход<br>
-6. Отображение, добавление, удаление и редактирование данных<br>
-7. Дополнительно реализован быстрый поиск по условию<br>  
-8. Использование функциональных компонентов, встроенных хуков, внутреннего state и Redux toolkit Store
-      <hr>  
-      <p><b>Технологии:</b></p>
-      <div> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="css" alt="css" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="javascript" alt="javascript" width="40" height="40"/>   
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="reactjs" alt="reactjs" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Redux.png/230px-Redux.png" title="redux" alt="redux" width="51" height="40"/>
    </div>
     </td>
   </tr>
